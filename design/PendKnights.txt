@@ -1,0 +1,14 @@
+-Introduccion batalla con el gran dragon
+-facciones - legiones
+-desbloquear otras novedades
+-intro con video - historia
+-botones adelante atras - menu inferior
+-ciudad y castillos
+-diversidad de items y cosas
+-modo campaña - misiones
+
+-ojo de halcon
+
+-terreno textura y carga en xna
+-animacion de tecnicas (fuego, esplosion, rayos)
+-animacion de personaje xna por tags
